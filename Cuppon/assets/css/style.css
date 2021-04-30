@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.verde {
+    background-color: #28A745;
+}
+
+.letrachica {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.letragrande {
+    font-size: 20px;
+    font-weight: 500;
+    color: #28A745;
+}
+
+.manolino {
+    font-size: 16pt;
+    font-weight: 300;
+    color: #707070
+}
+
+.ubicacion {
+    font-size: 13pt;
+    font-weight: 300;
+    color: #707070;
+}
+
+.plumon {
+    color: #212529;
+    font-size: 20pt;
+    font-weight: 300;
+}
+
+.coloricono {
+    color: #707070;
+}
+
+.formulario {
+    background-color: #28A745;
+}
+
+.textofinal {
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.nombre {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.correo {
+    font-size: 16px;
+    font-weight: 300;
+}
